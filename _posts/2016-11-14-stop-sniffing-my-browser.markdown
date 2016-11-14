@@ -6,18 +6,18 @@ categories: jekyll update
 ---
 Since Jekyll is all about static pages, you can create and edit your posts directly in the `_posts` directory.
 
-Jekyll also offers powerful support for code snippets:
+Jekyll also offers powerful support for code snippets. Here's a brilliant bit of Ruby code:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
+def print_meow(name)
+  puts "Meow, #{name}"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print_meow('Tom')
+#=> prints 'Meow, Tom'
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Proin massa metus, hendrerit eu odio eu, bibendum tincidunt sem. Donec tristique ac neque ac commodo. Cras sed euismod tortor, in ullamcorper ligula. Ut maximus augue nec ipsum pulvinar suscipit. Duis dignissim scelerisque velit, sed consectetur elit condimentum in.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Cras dolor nunc, auctor a blandit ac, commodo eu orci. 
