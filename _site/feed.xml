@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-14T17:07:47-07:00</updated><id>http://localhost:4000//</id><title type="html">My Little Jekyll</title><subtitle>Romina Case is a web developer based in Denver, Colorado. She's currently learning Java and, apparently, Jekyll.
+</subtitle><entry><title type="html">Stop Sniffing my Browser!</title><link href="http://localhost:4000/jekyll/update/2016/11/14/stop-sniffing-my-browser.html" rel="alternate" type="text/html" title="Stop Sniffing my Browser!" /><published>2016-11-14T12:01:54-07:00</published><updated>2016-11-14T12:01:54-07:00</updated><id>http://localhost:4000/jekyll/update/2016/11/14/stop-sniffing-my-browser</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2016/11/14/stop-sniffing-my-browser.html">&lt;p&gt;Since Jekyll is all about static pages, you can create and edit your posts directly in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets. Here’s a brilliant bit of Ruby code:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_meow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Meow, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_meow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Meow, Tom'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Proin massa metus, hendrerit eu odio eu, bibendum tincidunt sem. Donec tristique ac neque ac commodo. Cras sed euismod tortor, in ullamcorper ligula. Ut maximus augue nec ipsum pulvinar suscipit. Duis dignissim scelerisque velit, sed consectetur elit condimentum in.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;p&gt;Cras dolor nunc, auctor a blandit ac, commodo eu orci.&lt;/p&gt;</content><summary type="html">Since Jekyll is all about static pages, you can create and edit your posts directly in the _posts directory.</summary></entry><entry><title type="html">No More Puns, Please</title><link href="http://localhost:4000/writing/2016/11/12/no-more-puns.html" rel="alternate" type="text/html" title="No More Puns, Please" /><published>2016-11-12T01:21:54-07:00</published><updated>2016-11-12T01:21:54-07:00</updated><id>http://localhost:4000/writing/2016/11/12/no-more-puns</id><content type="html" xml:base="http://localhost:4000/writing/2016/11/12/no-more-puns.html">&lt;p&gt;This is another blog post.&lt;/p&gt;
+
+&lt;p&gt;Proin massa metus, hendrerit eu odio eu, bibendum tincidunt sem. Donec tristique ac neque ac commodo. Cras sed euismod tortor, in ullamcorper ligula. Ut maximus augue nec ipsum pulvinar suscipit.&lt;/p&gt;
+
+&lt;p&gt;Duis dignissim scelerisque velit, sed consectetur elit condimentum in. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras dolor nunc, auctor a blandit ac, commodo eu orci.&lt;/p&gt;</content><summary type="html">This is another blog post.</summary></entry></feed>
